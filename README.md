@@ -2,6 +2,8 @@
 a notes repo
  Hello there! I'm Reem Hasan, a recent AI graduate exploring new horizons in the world of full-stack development. While my academic journey began in artificial intelligence, I've recently shifted gears and embarked on an exciting adventure into the realm of web development.
 
+![Profile](img.png)
+
 and todays lecture was amazing it helped me with cli and control version systems which is something i always strugled with i learnt the following:
 1. The difference between CLI and GUI
 2. Version Control systems
